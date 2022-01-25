@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👩🏻‍💻 I'm Tugce
+- 🔭 I’m currently working on iOS Developer, Hepsiburada
+- 🌱 I’m currently learning SwiftUI!
 
 ![snake gif](https://github.com/tugcedulge/tugcedulge/blob/output/github-contribution-grid-snake.gif)
 
