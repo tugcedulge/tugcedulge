@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 I'm Tugce
 - 🔭 I’m currently working on iOS Developer
 - 🌱 I’m currently learning SwiftUI!
+- Team member of @hepsiburada
 
 ![snake gif](https://github.com/tugcedulge/tugcedulge/blob/output/github-contribution-grid-snake.gif)
 
